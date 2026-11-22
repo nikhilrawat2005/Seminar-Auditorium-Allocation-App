@@ -1,0 +1,101 @@
+[
+  {
+    "id": "venue-abes-bhabha-sh1",
+    "name": "Seminar Hall 01",
+    "block": "Bhabha Block",
+    "location": "Bhabha Block, Ground Floor",
+    "capacity": 80,
+    "description": "Bhabha Block air-conditioned seminar hall with audio-visual projection setup, podium, and tiered seating.",
+    "equipment_notes": "Projector, Audio amplifier, 2 Cordless mics, Podium",
+    "setup_buffer_minutes": 20,
+    "status": "active"
+  },
+  {
+    "id": "venue-abes-bhabha-sh2",
+    "name": "Seminar Hall 02",
+    "block": "Bhabha Block",
+    "location": "Bhabha Block, 1st Floor",
+    "capacity": 162,
+    "description": "High-capacity seminar hall in Bhabha Block designed for departmental guest lectures, workshops, and faculty development programs.",
+    "equipment_notes": "Dual screens, HD projector, 4 wireless mics, acoustic sound system",
+    "setup_buffer_minutes": 20,
+    "status": "active"
+  },
+  {
+    "id": "venue-abes-raman-audi",
+    "name": "Auditorium",
+    "block": "Raman Block",
+    "location": "Raman Block, Ground & 1st Floor",
+    "capacity": 500,
+    "description": "Central air-conditioned auditorium of ABES EC with world-class stage lighting, surround acoustics, green rooms, and motorized curtains.",
+    "equipment_notes": "Stage lighting console, line array PA, 6 cordless microphones, 4K digital projection, backstage intercom",
+    "setup_buffer_minutes": 45,
+    "status": "active"
+  },
+  {
+    "id": "venue-abes-raman-mezzanine",
+    "name": "Mezzanine Floor",
+    "block": "Raman Block",
+    "location": "Raman Block, Mezzanine Level",
+    "capacity": 120,
+    "description": "Elevated multipurpose hall in Raman Block for exhibitions, project displays, panel discussions, and executive gatherings.",
+    "equipment_notes": "Display panels, movable seating, PA speakers, presentation monitors",
+    "setup_buffer_minutes": 20,
+    "status": "active"
+  },
+  {
+    "id": "venue-abes-raman-sh1",
+    "name": "Seminar Hall 01",
+    "block": "Raman Block",
+    "location": "Raman Block, 2nd Floor",
+    "capacity": 156,
+    "description": "Premier seminar hall in Raman Block equipped for national symposiums, hackathons, and corporate presentations.",
+    "equipment_notes": "Smart interactive board, motorized screen, podium mic, surround audio",
+    "setup_buffer_minutes": 20,
+    "status": "active"
+  },
+  {
+    "id": "venue-abes-raman-sh2",
+    "name": "Seminar Hall 02",
+    "block": "Raman Block",
+    "location": "Raman Block, 3rd Floor",
+    "capacity": 132,
+    "description": "Modern amphitheater-style seminar room for tech talks, placement briefings, and club orientations.",
+    "equipment_notes": "Ceiling mounted projector, collar mic, wireless clicker, HDMI hub",
+    "setup_buffer_minutes": 20,
+    "status": "active"
+  },
+  {
+    "id": "venue-abes-arya-templelawn",
+    "name": "Temple Lawn Amphitheatre",
+    "block": "Aryabhatta Block",
+    "location": "Near Aryabhatta Block & Temple Lawn",
+    "capacity": 500,
+    "description": "Open-air amphitheatre surrounded by lush green lawns, ideal for cultural festivals, nukkad natak, acoustic nights, and gatherings.",
+    "equipment_notes": "Open stage lighting, weather-resistant outdoor audio system, sound mixer",
+    "setup_buffer_minutes": 30,
+    "status": "active"
+  },
+  {
+    "id": "venue-abes-arya-blackstone",
+    "name": "Black Stone",
+    "block": "Aryabhatta Block",
+    "location": "Aryabhatta Block Quadrangle",
+    "capacity": 500,
+    "description": "Iconic outdoor gathering square 'Black Stone' at ABES for student conclaves, innovation fests, exhibitions, and college assemblies.",
+    "equipment_notes": "Mobile stage setup, outdoor power junction boxes, high-intensity spot lights",
+    "setup_buffer_minutes": 30,
+    "status": "active"
+  },
+  {
+    "id": "venue-abes-kalpana-sh1",
+    "name": "Seminar Hall 01",
+    "block": "Kalpana Chawla Block",
+    "location": "Kalpana Chawla Block, 1st Floor",
+    "capacity": 100,
+    "description": "Specialized lecture and seminar theater in Kalpana Chawla Block tailored for technical paper presentations and research seminars.",
+    "equipment_notes": "High lumen projector, collar mic, whiteboard, audio feedback suppressor",
+    "setup_buffer_minutes": 20,
+    "status": "active"
+  }
+]

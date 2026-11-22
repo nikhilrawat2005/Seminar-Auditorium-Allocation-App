@@ -1,0 +1,42 @@
+[
+  {
+    "id": "appr-001-a1",
+    "application_id": "app-seed-001",
+    "admin_id": "admin-1-uuid",
+    "decision": "approved",
+    "remarks": "Great initiative. Ensure fire safety guidelines are observed.",
+    "decided_at": "2026-11-18T02:33:39.058813"
+  },
+  {
+    "id": "appr-001-a2",
+    "application_id": "app-seed-001",
+    "admin_id": "admin-2-uuid",
+    "decision": "approved",
+    "remarks": "Approved. Campus security has been alerted.",
+    "decided_at": "2026-11-18T06:33:39.058844"
+  },
+  {
+    "id": "appr-002-a1",
+    "application_id": "app-seed-002",
+    "admin_id": "admin-1-uuid",
+    "decision": "approved",
+    "remarks": "Sound acoustic limits must be strictly adhered to.",
+    "decided_at": "2026-11-19T04:33:39.058975"
+  },
+  {
+    "id": "424eece0-ccae-4b7b-8042-bd3469cc24ba",
+    "application_id": "c0c2180d-dab9-4570-8b83-8c64a93cbb11",
+    "admin_id": "admin-1-uuid",
+    "decision": "approved",
+    "remarks": "nyc",
+    "decided_at": "2026-11-20T15:40:09.822441"
+  },
+  {
+    "id": "671f8dc7-efb3-439e-b519-2ea2d347cdd2",
+    "application_id": "c0c2180d-dab9-4570-8b83-8c64a93cbb11",
+    "admin_id": "admin-2-uuid",
+    "decision": "approved",
+    "remarks": "nyc",
+    "decided_at": "2026-11-20T15:40:39.548523"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "ca9eaf29-1cdd-4eb4-9a7f-da68c34c9931",
+    "user_id": "applicant-2-uuid",
+    "action": "SUBMIT_APPLICATION",
+    "target_type": "application",
+    "target_id": "c0c2180d-dab9-4570-8b83-8c64a93cbb11",
+    "details": {
+      "event_name": "test"
+    },
+    "created_at": "2026-11-20T15:39:18.245527"
+  },
+  {
+    "id": "698ea759-6ea2-4840-b966-c2819a203b08",
+    "user_id": "admin-1-uuid",
+    "action": "PARTIALLY_APPROVE_APPLICATION",
+    "target_type": "application",
+    "target_id": "c0c2180d-dab9-4570-8b83-8c64a93cbb11",
+    "details": {
+      "remarks": "nyc"
+    },
+    "created_at": "2026-11-20T15:40:09.830236"
+  },
+  {
+    "id": "fa0d8c91-17cc-465c-8e29-3af139ab0eaa",
+    "user_id": "admin-2-uuid",
+    "action": "FINAL_APPROVE_APPLICATION",
+    "target_type": "application",
+    "target_id": "c0c2180d-dab9-4570-8b83-8c64a93cbb11",
+    "details": {
+      "booking_id": "ea8b46de-bcc1-4883-9bfd-14511abd0cce"
+    },
+    "created_at": "2026-11-20T15:40:39.561734"
+  },
+  {
+    "id": "0b5e0c58-1778-4193-a298-5b806a0903d4",
+    "user_id": "admin-1-uuid",
+    "action": "DELETE_USER",
+    "target_type": "user",
+    "target_id": "applicant-1-uuid",
+    "details": {
+      "email": "technovation@abes.ac.in",
+      "name": "Aayush Sharma (Lead)"
+    },
+    "created_at": "2026-11-20T15:58:41.081620"
+  },
+  {
+    "id": "c04e73ad-528d-4ee8-9d4f-a0a82c3c0b8e",
+    "user_id": "admin-1-uuid",
+    "action": "DELETE_USER",
+    "target_type": "user",
+    "target_id": "applicant-3-uuid",
+    "details": {
+      "email": "sports.council@abes.ac.in",
+      "name": "Kunal Chaudhary (Captain)"
+    },
+    "created_at": "2026-11-20T16:00:27.112172"
+  },
+  {
+    "id": "5a54266e-415f-499f-b446-0dd0a53bb8c9",
+    "user_id": "admin-1-uuid",
+    "action": "DELETE_USER",
+    "target_type": "user",
+    "target_id": "applicant-2-uuid",
+    "details": {
+      "email": "cultural.society@abes.ac.in",
+      "name": "Ananya Verma (Secretary)"
+    },
+    "created_at": "2026-11-20T16:00:32.312677"
+  }
+]
