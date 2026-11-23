@@ -60,7 +60,7 @@ export const ApplicantDashboard: React.FC = () => {
         end_time: paramEndTime || prev.end_time,
       }));
     }
-  }, [searchParams]);
+  }, [user?.id, searchParams]);
 
   const fetchData = async () => {
     setLoading(true);

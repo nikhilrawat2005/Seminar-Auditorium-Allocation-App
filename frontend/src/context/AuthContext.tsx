@@ -76,6 +76,9 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     try {
       const res = await api.post(`/auth/switch/${userId}`);
       const { access_token } = res.data;
+      // Update token in api axios defaults immediately
+      api.defaults.headers.common['Authorization'] = `Bearer ${access_token}`;
+
       const meRes = await api.get('/auth/me', {
         headers: { Authorization: `Bearer ${access_token}` },
       });
