@@ -48,7 +48,10 @@ def main():
     threading.Thread(target=open_browser, daemon=True).start()
 
     cmd = [python_exe, "-m", "uvicorn", "app.main:app", "--host", "127.0.0.1", "--port", str(port)]
-    subprocess.run(cmd, env=env, cwd=root)
+    try:
+        subprocess.run(cmd, env=env, cwd=root)
+    except KeyboardInterrupt:
+        print("\n[INFO] Server stopped gracefully. Goodbye!")
 
 if __name__ == "__main__":
     main()
