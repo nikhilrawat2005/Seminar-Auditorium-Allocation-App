@@ -42,10 +42,10 @@ export const LoginPage: React.FC = () => {
 
   const handleQuickFill = (role: 'admin1' | 'admin2' | 'club') => {
     if (role === 'admin1') {
-      setEmail('admin1@college.edu');
+      setEmail('nikhil@abes.ac.in');
       setPassword('admin123');
     } else if (role === 'admin2') {
-      setEmail('admin2@college.edu');
+      setEmail('priyam@abes.ac.in');
       setPassword('admin123');
     } else {
       setEmail('techclub@college.edu');
