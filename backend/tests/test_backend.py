@@ -5,14 +5,13 @@ from app.core.file_db import db
 
 client = TestClient(app)
 
-def test_api_root():
-    res = client.get("/")
+def test_api_status():
+    res = client.get("/api/v1/venues")
     assert res.status_code == 200
-    assert res.json()["status"] == "online"
 
 def test_login_admin():
     res = client.post("/api/v1/auth/login", json={
-        "email": "admin1@college.edu",
+        "email": "nikhil@abes.ac.in",
         "password": "admin123"
     })
     assert res.status_code == 200

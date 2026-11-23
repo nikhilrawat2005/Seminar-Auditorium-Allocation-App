@@ -1,0 +1,2 @@
+id,application_id,venue_id,start_datetime,end_datetime,status,created_at
+book-seed-001,app-seed-001,venue-audi-1,2026-11-28T09:00:00,2026-11-28T18:00:00,confirmed,2026-11-22T10:01:14.127914

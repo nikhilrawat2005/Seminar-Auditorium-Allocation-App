@@ -1,0 +1,4 @@
+id,application_id,admin_id,decision,remarks,decided_at
+appr-001-a1,app-seed-001,admin-1-uuid,approved,Great initiative. Ensure fire safety guidelines are observed.,2026-11-22T06:01:14.127893
+appr-001-a2,app-seed-001,admin-2-uuid,approved,Approved. Campus security has been alerted.,2026-11-22T10:01:14.127904
+appr-002-a1,app-seed-002,admin-1-uuid,approved,Sound acoustic limits must be strictly adhered to.,2026-11-23T08:01:14.127961

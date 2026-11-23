@@ -1,0 +1,5 @@
+id,name,location,capacity,description,equipment_notes,setup_buffer_minutes,status
+venue-audi-1,Main Auditorium,"Academic Block A, Ground Floor",800,"State-of-the-art auditorium with line-array sound system, dual 4K laser projectors, and stage lighting.","Podium, 4 Cordless Mics, Stage lighting console",30,active
+venue-seminar-2,Dr. APJ Abdul Kalam Seminar Hall,"Science Block, 2nd Floor",200,"Tiered seating lecture hall equipped with smart board, video conferencing, and surround acoustic panelling.","Projector, Collar mic, Handheld mic, HDMI switcher",20,active
+venue-ground-3,University Main Sports Ground,East Campus,2500,"Open lush green athletic field with 400m synthetic running track, flood lights, and spectator pavilion.","Field PA system, Goal posts, Match referee tent",45,active
+venue-conf-4,Executive Conference Hall,"Administrative Block, 1st Floor",50,"Round-table conference room for high-level meetings, academic councils, and guest panels.","Conference mic units, motorized projection screen, video bar",15,active

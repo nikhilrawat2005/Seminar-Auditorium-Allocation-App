@@ -4,7 +4,7 @@ A production-grade, secure, multi-role venue allocation system built for univers
 
 ## 🚀 Key Highlights
 - **Unified Single Server Architecture**: Poora Frontend (React + Vite SPA) aur Backend (FastAPI API) ek hi server aur ek hi port (`8000`) par chalta hai!
-- **Zero External DB Dependency**: Local persistent file storage (`backend/data/*.json`) with row locking and conflict management.
+- **Local CSV Database (No Docker Required)**: Data direct local CSV files (`backend/data/*.csv`) me read aur write hota hai without any Docker or external database dependency.
 - **Dual Independent Admin Approval**: Compulsory dual-admin verification with full audit logs and timeline tracking.
 
 ---

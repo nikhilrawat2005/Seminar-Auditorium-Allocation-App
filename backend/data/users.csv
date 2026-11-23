@@ -1,0 +1,6 @@
+id,name,email,password_hash,role,organization_name,status,created_at
+admin-1-uuid,Nikhil Rawat (Admin),nikhil@abes.ac.in,$2b$12$FrOCuNCo4hEyH3WISdIEde8viYMCVipeSQ1BzxDpIdawUiqceZUqi,admin,Administration Board,active,2026-11-23T10:01:12.316871
+admin-2-uuid,Priyam Dev Bhartiya (Admin),priyam@abes.ac.in,$2b$12$0Iwcne7yBX0ii1wQcI27G.3oxjL/L0ls0BfWDgdF24C52pFzUdZbm,admin,Proctorial & Student Affairs,active,2026-11-23T10:01:12.782750
+applicant-1-uuid,Rohan Mehra,techclub@college.edu,$2b$12$nkTELsdRs7HuWTIJzSSsEugT8I4VXGtBI1cMqLlttYAeOjpxbJACW,applicant,Robotics & Tech Club,active,2026-11-23T10:01:13.218487
+applicant-2-uuid,Priya Sen,cultural@college.edu,$2b$12$BeMpWixYMmQ1ODaMAnhpC.9sf5hBRLyKcIvk/PQXc.aA7pMkv1KqG,applicant,Music & Drama Society,active,2026-11-23T10:01:13.672371
+applicant-3-uuid,Vikram Singh,sports@college.edu,$2b$12$vmgajUrwl7bYRmQTJ9LhPO./QCCDCzzR9v8STvFweVSNdSIWps88i,applicant,Sports Council,active,2026-11-23T10:01:14.111931
